@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/11/12 18:06:02.000.541,=C:\Users\UserX\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/11/12 18:48:57.000.059,=C:\Users\UserX\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/12/10 18:26:45.000.342,=C:\Users\UserX\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/11/09 18:24:28.000.426,=C:\Users\UserX\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/11/09 18:25:09.000.160,C:\Users\UserX\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\ProjSoft\D26\ExemploSorteioRamdom\UMain.pas</Transaction>
+    <Transaction>2020/11/09 18:25:09.000.160,C:\Users\UserX\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\ProjSoft\D26\ExemploSorteioRamdom\UMain.dfm</Transaction>
+    <Transaction>2020/11/09 18:25:17.000.958,C:\Users\UserX\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\ProjSoft\D26\ExemploSorteioRamdom\ProjSorteio.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
